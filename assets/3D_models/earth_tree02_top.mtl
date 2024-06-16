@@ -1,0 +1,10 @@
+# Exported from 3D Builder
+
+newmtl Snow_1_0
+Kd 0.933333 0.933333 0.933333
+
+newmtl Tree_Trunk_1_0
+Kd 0.396078 0.247059 0.066667
+
+newmtl Tree_Leaf_1_0
+Kd 0.352941 0.407843 0.078431
